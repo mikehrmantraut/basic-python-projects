@@ -1,6 +1,6 @@
 # make_quiz
-Quiz sample where you can add as many questions as you want. ( for beginners)
-Classes
+Quiz sample where you can add as many questions as you want. ( for beginners) <br/>
+Classes:
 -
 "Question" class :
 --
