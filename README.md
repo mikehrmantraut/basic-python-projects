@@ -5,6 +5,7 @@ Projects and its descriptions: <br/>
 
 <ul>
   <li>arrange-video => Setting video speed and frame size of videos. </li>
+  <li>auto-click-bot => An auto clicker bot in Python.
   <li>cash-machine => A very simple cash machine program that you can withdraw money and see your balance. </li>
   <li>digital-clock => A digital clock with Python Tkinter. </li>
   <li>game-of-life => Conway's Game of Life in Python. </li>
