@@ -13,6 +13,7 @@ Projects and its descriptions: <br/>
   <li>location-finder => Find location and operator of telephone number with Python. </li>
   <li>make-quiz => Quiz sample where you can add as many questions as you want. </li>
   <li>number-prediction => Basic number prediction game with Python. </li>
+  <li>online-web-chat => Basic web chat in Python with Flask. </li>
   <li>operation-time-calculator => A program that calculates how many seconds mathematical operations are performed by computer. </li>
   <li>pyqt5-examples => Two different calculator interfaces written in PyQt5. </li>
   <li>user-information => A program that stores user information (username, password, e-mail) in a file in .json format. </li>
