@@ -1,3 +1,3 @@
 Online Web Chat with Flask
 --
-Description will be added...
+Online Web Chat in Python with Flask.
